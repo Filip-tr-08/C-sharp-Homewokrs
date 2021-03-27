@@ -1,0 +1,13 @@
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\CSharpBasicHomework1-Exercise1\CSharpBasicHomework1-Exercise1\bin\Debug\netcoreapp3.1\CSharpBasicHomework1-Exercise1.exe
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\CSharpBasicHomework1-Exercise1\CSharpBasicHomework1-Exercise1\bin\Debug\netcoreapp3.1\CSharpBasicHomework1-Exercise1.deps.json
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\CSharpBasicHomework1-Exercise1\CSharpBasicHomework1-Exercise1\bin\Debug\netcoreapp3.1\CSharpBasicHomework1-Exercise1.runtimeconfig.json
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\CSharpBasicHomework1-Exercise1\CSharpBasicHomework1-Exercise1\bin\Debug\netcoreapp3.1\CSharpBasicHomework1-Exercise1.runtimeconfig.dev.json
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\CSharpBasicHomework1-Exercise1\CSharpBasicHomework1-Exercise1\bin\Debug\netcoreapp3.1\CSharpBasicHomework1-Exercise1.dll
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\CSharpBasicHomework1-Exercise1\CSharpBasicHomework1-Exercise1\bin\Debug\netcoreapp3.1\CSharpBasicHomework1-Exercise1.pdb
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\CSharpBasicHomework1-Exercise1\CSharpBasicHomework1-Exercise1\obj\Debug\netcoreapp3.1\CSharpBasicHomework1-Exercise1.csprojAssemblyReference.cache
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\CSharpBasicHomework1-Exercise1\CSharpBasicHomework1-Exercise1\obj\Debug\netcoreapp3.1\CSharpBasicHomework1-Exercise1.AssemblyInfoInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\CSharpBasicHomework1-Exercise1\CSharpBasicHomework1-Exercise1\obj\Debug\netcoreapp3.1\CSharpBasicHomework1-Exercise1.AssemblyInfo.cs
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\CSharpBasicHomework1-Exercise1\CSharpBasicHomework1-Exercise1\obj\Debug\netcoreapp3.1\CSharpBasicHomework1-Exercise1.csproj.CoreCompileInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\CSharpBasicHomework1-Exercise1\CSharpBasicHomework1-Exercise1\obj\Debug\netcoreapp3.1\CSharpBasicHomework1-Exercise1.dll
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\CSharpBasicHomework1-Exercise1\CSharpBasicHomework1-Exercise1\obj\Debug\netcoreapp3.1\CSharpBasicHomework1-Exercise1.pdb
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\CSharpBasicHomework1-Exercise1\CSharpBasicHomework1-Exercise1\obj\Debug\netcoreapp3.1\CSharpBasicHomework1-Exercise1.genruntimeconfig.cache
