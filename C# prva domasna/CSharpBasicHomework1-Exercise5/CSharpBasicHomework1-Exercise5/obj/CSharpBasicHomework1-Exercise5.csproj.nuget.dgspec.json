@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\C# prva domasna\\CSharpBasicHomework1-Exercise3\\CSharpBasicHomework1-Exercise3\\CSharpBasicHomework1-Exercise3.csproj": {}
+    "E:\\web development\\seavus prezentacii i materijali\\domasni\\Basic C# domasni\\C# prva domasna\\CSharpBasicHomework1-Exercise5\\CSharpBasicHomework1-Exercise5\\CSharpBasicHomework1-Exercise5.csproj": {}
   },
   "projects": {
-    "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\C# prva domasna\\CSharpBasicHomework1-Exercise3\\CSharpBasicHomework1-Exercise3\\CSharpBasicHomework1-Exercise3.csproj": {
+    "E:\\web development\\seavus prezentacii i materijali\\domasni\\Basic C# domasni\\C# prva domasna\\CSharpBasicHomework1-Exercise5\\CSharpBasicHomework1-Exercise5\\CSharpBasicHomework1-Exercise5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\C# prva domasna\\CSharpBasicHomework1-Exercise3\\CSharpBasicHomework1-Exercise3\\CSharpBasicHomework1-Exercise3.csproj",
-        "projectName": "CSharpBasicHomework1-Exercise3",
-        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\C# prva domasna\\CSharpBasicHomework1-Exercise3\\CSharpBasicHomework1-Exercise3\\CSharpBasicHomework1-Exercise3.csproj",
+        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Basic C# domasni\\C# prva domasna\\CSharpBasicHomework1-Exercise5\\CSharpBasicHomework1-Exercise5\\CSharpBasicHomework1-Exercise5.csproj",
+        "projectName": "CSharpBasicHomework1-Exercise5",
+        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Basic C# domasni\\C# prva domasna\\CSharpBasicHomework1-Exercise5\\CSharpBasicHomework1-Exercise5\\CSharpBasicHomework1-Exercise5.csproj",
         "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\C# prva domasna\\CSharpBasicHomework1-Exercise3\\CSharpBasicHomework1-Exercise3\\obj\\",
+        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Basic C# domasni\\C# prva domasna\\CSharpBasicHomework1-Exercise5\\CSharpBasicHomework1-Exercise5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
