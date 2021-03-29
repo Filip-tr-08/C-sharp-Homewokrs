@@ -1,0 +1,13 @@
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task1\bin\Debug\netcoreapp3.1\Task1 SumOfEven.exe
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task1\bin\Debug\netcoreapp3.1\Task1 SumOfEven.deps.json
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task1\bin\Debug\netcoreapp3.1\Task1 SumOfEven.runtimeconfig.json
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task1\bin\Debug\netcoreapp3.1\Task1 SumOfEven.runtimeconfig.dev.json
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task1\bin\Debug\netcoreapp3.1\Task1 SumOfEven.dll
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task1\bin\Debug\netcoreapp3.1\Task1 SumOfEven.pdb
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task1\obj\Debug\netcoreapp3.1\Task1 SumOfEven.csprojAssemblyReference.cache
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task1\obj\Debug\netcoreapp3.1\Task1 SumOfEven.AssemblyInfoInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task1\obj\Debug\netcoreapp3.1\Task1 SumOfEven.AssemblyInfo.cs
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task1\obj\Debug\netcoreapp3.1\Task1 SumOfEven.csproj.CoreCompileInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task1\obj\Debug\netcoreapp3.1\Task1 SumOfEven.dll
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task1\obj\Debug\netcoreapp3.1\Task1 SumOfEven.pdb
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task1\obj\Debug\netcoreapp3.1\Task1 SumOfEven.genruntimeconfig.cache

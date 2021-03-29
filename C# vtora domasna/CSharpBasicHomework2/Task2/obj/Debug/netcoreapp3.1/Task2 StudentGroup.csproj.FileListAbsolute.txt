@@ -1,0 +1,12 @@
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task2\bin\Debug\netcoreapp3.1\Task2 StudentGroup.exe
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task2\bin\Debug\netcoreapp3.1\Task2 StudentGroup.deps.json
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task2\bin\Debug\netcoreapp3.1\Task2 StudentGroup.runtimeconfig.json
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task2\bin\Debug\netcoreapp3.1\Task2 StudentGroup.runtimeconfig.dev.json
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task2\bin\Debug\netcoreapp3.1\Task2 StudentGroup.dll
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task2\bin\Debug\netcoreapp3.1\Task2 StudentGroup.pdb
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task2\obj\Debug\netcoreapp3.1\Task2 StudentGroup.AssemblyInfoInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task2\obj\Debug\netcoreapp3.1\Task2 StudentGroup.AssemblyInfo.cs
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task2\obj\Debug\netcoreapp3.1\Task2 StudentGroup.csproj.CoreCompileInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task2\obj\Debug\netcoreapp3.1\Task2 StudentGroup.dll
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task2\obj\Debug\netcoreapp3.1\Task2 StudentGroup.pdb
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task2\obj\Debug\netcoreapp3.1\Task2 StudentGroup.genruntimeconfig.cache

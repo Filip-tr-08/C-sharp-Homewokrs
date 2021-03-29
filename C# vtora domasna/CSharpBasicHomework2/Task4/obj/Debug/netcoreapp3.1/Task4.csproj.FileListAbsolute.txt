@@ -1,0 +1,13 @@
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task4\bin\Debug\netcoreapp3.1\Task4.exe
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task4\bin\Debug\netcoreapp3.1\Task4.deps.json
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task4\bin\Debug\netcoreapp3.1\Task4.runtimeconfig.json
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task4\bin\Debug\netcoreapp3.1\Task4.runtimeconfig.dev.json
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task4\bin\Debug\netcoreapp3.1\Task4.dll
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task4\bin\Debug\netcoreapp3.1\Task4.pdb
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task4\obj\Debug\netcoreapp3.1\Task4.csprojAssemblyReference.cache
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task4\obj\Debug\netcoreapp3.1\Task4.AssemblyInfoInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task4\obj\Debug\netcoreapp3.1\Task4.AssemblyInfo.cs
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task4\obj\Debug\netcoreapp3.1\Task4.csproj.CoreCompileInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task4\obj\Debug\netcoreapp3.1\Task4.dll
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task4\obj\Debug\netcoreapp3.1\Task4.pdb
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Task4\obj\Debug\netcoreapp3.1\Task4.genruntimeconfig.cache

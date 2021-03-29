@@ -1,0 +1,13 @@
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Bonus\bin\Debug\netcoreapp3.1\Bonus.exe
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Bonus\bin\Debug\netcoreapp3.1\Bonus.deps.json
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Bonus\bin\Debug\netcoreapp3.1\Bonus.runtimeconfig.json
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Bonus\bin\Debug\netcoreapp3.1\Bonus.runtimeconfig.dev.json
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Bonus\bin\Debug\netcoreapp3.1\Bonus.dll
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Bonus\bin\Debug\netcoreapp3.1\Bonus.pdb
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Bonus\obj\Debug\netcoreapp3.1\Bonus.csprojAssemblyReference.cache
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Bonus\obj\Debug\netcoreapp3.1\Bonus.AssemblyInfoInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Bonus\obj\Debug\netcoreapp3.1\Bonus.AssemblyInfo.cs
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Bonus\obj\Debug\netcoreapp3.1\Bonus.csproj.CoreCompileInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Bonus\obj\Debug\netcoreapp3.1\Bonus.dll
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Bonus\obj\Debug\netcoreapp3.1\Bonus.pdb
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# vtora domasna\CSharpBasicHomework2\Bonus\obj\Debug\netcoreapp3.1\Bonus.genruntimeconfig.cache
