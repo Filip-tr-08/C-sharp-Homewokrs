@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Basic C# domasni\\C# vtora domasna\\CSharpBasicHomework2\\Bonus\\Bonus.csproj",
+      "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\C# vtora domasna\\CSharpBasicHomework2\\Bonus\\Bonus.csproj",
       "projectName": "Bonus",
-      "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Basic C# domasni\\C# vtora domasna\\CSharpBasicHomework2\\Bonus\\Bonus.csproj",
+      "projectPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\C# vtora domasna\\CSharpBasicHomework2\\Bonus\\Bonus.csproj",
       "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-      "outputPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Basic C# domasni\\C# vtora domasna\\CSharpBasicHomework2\\Bonus\\obj\\",
+      "outputPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\C# vtora domasna\\CSharpBasicHomework2\\Bonus\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\web development\\seavus prezentacii i materijali\\domasni\\Basic C# domasni\\C# vtora domasna\\CSharpBasicHomework2\\Task1\\Task1 SumOfEven.csproj": {}
+    "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\C# vtora domasna\\CSharpBasicHomework2\\Task1\\Task1 SumOfEven.csproj": {}
   },
   "projects": {
-    "E:\\web development\\seavus prezentacii i materijali\\domasni\\Basic C# domasni\\C# vtora domasna\\CSharpBasicHomework2\\Task1\\Task1 SumOfEven.csproj": {
+    "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\C# vtora domasna\\CSharpBasicHomework2\\Task1\\Task1 SumOfEven.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Basic C# domasni\\C# vtora domasna\\CSharpBasicHomework2\\Task1\\Task1 SumOfEven.csproj",
+        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\C# vtora domasna\\CSharpBasicHomework2\\Task1\\Task1 SumOfEven.csproj",
         "projectName": "Task1 SumOfEven",
-        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Basic C# domasni\\C# vtora domasna\\CSharpBasicHomework2\\Task1\\Task1 SumOfEven.csproj",
+        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\C# vtora domasna\\CSharpBasicHomework2\\Task1\\Task1 SumOfEven.csproj",
         "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Basic C# domasni\\C# vtora domasna\\CSharpBasicHomework2\\Task1\\obj\\",
+        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\C# vtora domasna\\CSharpBasicHomework2\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",

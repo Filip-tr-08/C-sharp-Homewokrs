@@ -6,20 +6,20 @@ namespace Task3
     {
         static void Main(string[] args)
         {
-            int i, number = 0, maximum = int.MinValue, minimum = int.MaxValue;
+            int i, number, maximum = int.MinValue, minimum = int.MaxValue;
             int[] numbers = new int[10];
             for (i = 0; i <= numbers.Length - 1; i++)
             {
                 Console.WriteLine($"Input number {i + 1}:");
-                int.TryParse(Console.ReadLine(), out number);
-                if (number != 0)
+                bool success=int.TryParse(Console.ReadLine(), out number);
+                if (success)
                 {
                     numbers[i] = number;
                 }
                 else
                 {
                     Console.WriteLine("ERROR");
-                    break;
+                    continue;
                 }
             }
             for (i = 0; i < numbers.Length; i++)

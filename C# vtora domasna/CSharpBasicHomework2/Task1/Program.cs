@@ -18,14 +18,14 @@ namespace Task1
                 }
                 else {
                     Console.WriteLine("ERROR");
-                    break;
+                    continue;
                 }
             }
             for (i = 0; i < numbers.Length; i++)
             {
                 if (numbers[i] == 0)
                 {
-                    break;
+                    continue;
                 }
                if (numbers[i] % 2 == 0)
                 {

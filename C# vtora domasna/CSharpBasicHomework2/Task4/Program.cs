@@ -26,7 +26,7 @@ namespace Task4
                         break;
                     }
                 }
-                for (i = 0; i < numbers.Length; i++)
+                for (i = 1; i < numbers.Length; i++)
                 {
                     if(numbers[i]==3 && numbers[i - 1] == 3)
                     {

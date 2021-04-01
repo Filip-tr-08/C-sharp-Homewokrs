@@ -6,12 +6,12 @@ namespace Task2
     {
         static void Main(string[] args)
         {
-            int num = 0;
+            int num;
             string[] studentsG1 = {"Zdravko","Petko","Stanko", "Branko","Trajko"};
             string[] studentsG2 = { "Student1", "Student2", "Student3" , "Student4" , "Student5", "Student6" };
             Console.WriteLine("Enter student group: (there are 1 and 2)");
-            int.TryParse(Console.ReadLine(), out num);
-            if (num !=0 ) {
+            bool success=int.TryParse(Console.ReadLine(), out num);
+            if (success) {
                 if (num == 1)
                 {
                     foreach(string student in studentsG1)
