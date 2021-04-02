@@ -11,3 +11,16 @@ E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# t
 E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# treta domasna\CSharpBasicHomework3\Task5\obj\Debug\netcoreapp3.1\Task5.pdb
 E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# treta domasna\CSharpBasicHomework3\Task5\obj\Debug\netcoreapp3.1\Task5.genruntimeconfig.cache
 E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# treta domasna\CSharpBasicHomework3\Task5\obj\Debug\netcoreapp3.1\Task5.csprojAssemblyReference.cache
+E:\web development\seavus prezentacii i materijali\C# domasni\C-sharp-Homewokrs\C# treta domasna\CSharpBasicHomework3\Task5\bin\Debug\netcoreapp3.1\Task5.exe
+E:\web development\seavus prezentacii i materijali\C# domasni\C-sharp-Homewokrs\C# treta domasna\CSharpBasicHomework3\Task5\bin\Debug\netcoreapp3.1\Task5.deps.json
+E:\web development\seavus prezentacii i materijali\C# domasni\C-sharp-Homewokrs\C# treta domasna\CSharpBasicHomework3\Task5\bin\Debug\netcoreapp3.1\Task5.runtimeconfig.json
+E:\web development\seavus prezentacii i materijali\C# domasni\C-sharp-Homewokrs\C# treta domasna\CSharpBasicHomework3\Task5\bin\Debug\netcoreapp3.1\Task5.runtimeconfig.dev.json
+E:\web development\seavus prezentacii i materijali\C# domasni\C-sharp-Homewokrs\C# treta domasna\CSharpBasicHomework3\Task5\bin\Debug\netcoreapp3.1\Task5.dll
+E:\web development\seavus prezentacii i materijali\C# domasni\C-sharp-Homewokrs\C# treta domasna\CSharpBasicHomework3\Task5\bin\Debug\netcoreapp3.1\Task5.pdb
+E:\web development\seavus prezentacii i materijali\C# domasni\C-sharp-Homewokrs\C# treta domasna\CSharpBasicHomework3\Task5\obj\Debug\netcoreapp3.1\Task5.csprojAssemblyReference.cache
+E:\web development\seavus prezentacii i materijali\C# domasni\C-sharp-Homewokrs\C# treta domasna\CSharpBasicHomework3\Task5\obj\Debug\netcoreapp3.1\Task5.AssemblyInfoInputs.cache
+E:\web development\seavus prezentacii i materijali\C# domasni\C-sharp-Homewokrs\C# treta domasna\CSharpBasicHomework3\Task5\obj\Debug\netcoreapp3.1\Task5.AssemblyInfo.cs
+E:\web development\seavus prezentacii i materijali\C# domasni\C-sharp-Homewokrs\C# treta domasna\CSharpBasicHomework3\Task5\obj\Debug\netcoreapp3.1\Task5.csproj.CoreCompileInputs.cache
+E:\web development\seavus prezentacii i materijali\C# domasni\C-sharp-Homewokrs\C# treta domasna\CSharpBasicHomework3\Task5\obj\Debug\netcoreapp3.1\Task5.dll
+E:\web development\seavus prezentacii i materijali\C# domasni\C-sharp-Homewokrs\C# treta domasna\CSharpBasicHomework3\Task5\obj\Debug\netcoreapp3.1\Task5.pdb
+E:\web development\seavus prezentacii i materijali\C# domasni\C-sharp-Homewokrs\C# treta domasna\CSharpBasicHomework3\Task5\obj\Debug\netcoreapp3.1\Task5.genruntimeconfig.cache

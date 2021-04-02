@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\web development\\seavus prezentacii i materijali\\domasni\\Basic C# domasni\\C# treta domasna\\CSharpBasicHomework3\\Task1\\Task1.csproj": {}
+    "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\C# treta domasna\\CSharpBasicHomework3\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "E:\\web development\\seavus prezentacii i materijali\\domasni\\Basic C# domasni\\C# treta domasna\\CSharpBasicHomework3\\Task1\\Task1.csproj": {
+    "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\C# treta domasna\\CSharpBasicHomework3\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Basic C# domasni\\C# treta domasna\\CSharpBasicHomework3\\Task1\\Task1.csproj",
+        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\C# treta domasna\\CSharpBasicHomework3\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Basic C# domasni\\C# treta domasna\\CSharpBasicHomework3\\Task1\\Task1.csproj",
+        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\C# treta domasna\\CSharpBasicHomework3\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Basic C# domasni\\C# treta domasna\\CSharpBasicHomework3\\Task1\\obj\\",
+        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\C# treta domasna\\CSharpBasicHomework3\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",

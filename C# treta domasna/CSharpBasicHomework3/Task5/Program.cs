@@ -16,7 +16,7 @@ namespace Task5
                 Console.WriteLine($"Enter the {strings[i]}");
                 string date = Console.ReadLine();
                 bool success = int.TryParse(date, out int parsedDate);
-                if (success)
+                if (success && parsedDate>0)
                 {
                     if (i != strings.Length - 1)
                     {
@@ -42,24 +42,31 @@ namespace Task5
         }
         static void AgeCalculator(string birthDay)
         {
-            DateTime convertedDate = DateTime.Parse(birthDay);
-            DateTime currentDate = DateTime.Now;
-            int resultYears = currentDate.Year - convertedDate.Year;
-            int resultMonths = currentDate.Month - convertedDate.Month;
-            int resultDays = currentDate.Day - convertedDate.Day;
-            if (resultDays < 0)
+            DateTime convertedDate;
+            bool success2 = DateTime.TryParse(birthDay, out convertedDate);
+            if (success2)
             {
-                resultDays += DateTime.DaysInMonth(currentDate.Year, currentDate.Month);
-                resultMonths--;
-            }
+                DateTime currentDate = DateTime.Now;
+                int resultYears = currentDate.Year - convertedDate.Year;
+                int resultMonths = currentDate.Month - convertedDate.Month;
+                int resultDays = currentDate.Day - convertedDate.Day;
+                if (resultDays < 0)
+                {
+                    resultDays += DateTime.DaysInMonth(currentDate.Year, currentDate.Month);
+                    resultMonths--;
+                }
 
-            if (resultMonths < 0)
+                if (resultMonths < 0)
+                {
+                    resultMonths += 12;
+                    resultYears--;
+                }
+                Console.WriteLine($"{resultYears} - {resultMonths} - {resultDays} {currentDate}");
+            }
+            else
             {
-                resultMonths += 12;
-                resultYears--;
+                Console.WriteLine("Invalid input");
             }
-            Console.WriteLine($"{resultYears} - {resultMonths} - {resultDays} {currentDate}");
-
 
         }
     }
