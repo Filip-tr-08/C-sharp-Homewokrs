@@ -62,6 +62,18 @@ namespace Task5
                     resultYears--;
                 }
                 Console.WriteLine($"{resultYears} - {resultMonths} - {resultDays} {currentDate}");
+                if (resultMonths == 0 && resultDays == 0)
+                {
+                    Console.WriteLine($"Happy {resultYears} birhtday");
+                }
+                else if (resultMonths == 0 && resultDays == 1)
+                {
+                    Console.WriteLine("Your Birthday was yesterday");
+                }
+                else if (resultMonths == 11 && (convertedDate.Day - 1 == currentDate.Day))
+                {
+                    Console.WriteLine($"You will be {resultYears + 1} years old from tomorow");
+                }
             }
             else
             {
