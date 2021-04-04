@@ -26,7 +26,10 @@ namespace RaceTask
                 {
                     Console.WriteLine(car.Model);
                 }
+                Console.ForegroundColor = ConsoleColor.Green;
                 string firstCar = Console.ReadLine();
+                Console.ForegroundColor = ConsoleColor.White;
+
                 string firstModel = "";
                 int firstSpeed = 0;
                 int numOfCars = 0;
@@ -47,7 +50,9 @@ namespace RaceTask
                 }
                 if (cars.Length == newCars.Length)
                 {
+                Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("There is not such a car");
+                Console.ForegroundColor = ConsoleColor.White;
                     break;
                 }
                 Console.WriteLine("Please choose the driver for the first user:");
@@ -57,7 +62,9 @@ namespace RaceTask
                 }
                 string firstName = "";
                 int firstSkill = 0;
+                Console.ForegroundColor = ConsoleColor.Green;
                 string firstDriverName = Console.ReadLine();
+                Console.ForegroundColor = ConsoleColor.White;
                 int numOfDrivers = 0;
                 Driver[] newDrivers = new Driver[] { };
                 for (int i = 0; i < cars.Length; i++)
@@ -76,7 +83,9 @@ namespace RaceTask
                 }
                 if (drivers.Length == newDrivers.Length)
                 {
+                Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("There is not such a driver");
+                Console.ForegroundColor = ConsoleColor.White;
                     break;
                 }
                 Console.WriteLine("Please choose the car for the second user:");
@@ -84,7 +93,9 @@ namespace RaceTask
                 {
                     Console.WriteLine(car.Model);
                 }
+                Console.ForegroundColor = ConsoleColor.Green;
                 string secondCar = Console.ReadLine();
+                Console.ForegroundColor = ConsoleColor.White;
                 string secondModel = "";
                 int secondSpeed = 0;
                 for (int i = 0; i < newCars.Length; i++)
@@ -102,7 +113,9 @@ namespace RaceTask
                 }
                 if (secondModel == "" && secondSpeed == 0)
                 {
+                Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("There is not such a car");
+                Console.ForegroundColor = ConsoleColor.White;
                     break;
                 }
                 Console.WriteLine("Please choose the driver for the second user:");
@@ -112,7 +125,9 @@ namespace RaceTask
                 }
                 string secondName = "";
                 int secondSkill = 0;
+                Console.ForegroundColor = ConsoleColor.Green;
                 string secondDriverName = Console.ReadLine();
+                Console.ForegroundColor = ConsoleColor.White;
                 for (int i = 0; i < newDrivers.Length; i++)
                 {
                     if (secondDriverName.ToLower() == newDrivers[i].Name.ToLower())
@@ -128,7 +143,9 @@ namespace RaceTask
                 }
                 if (secondName == "" && secondSkill == 0)
                 {
+                Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("There is not such a driver");
+                Console.ForegroundColor = ConsoleColor.White;
                     break;
                 }
                 Driver firstUserDriver = new Driver(firstName, firstSkill);
@@ -140,7 +157,7 @@ namespace RaceTask
                 string answer = Console.ReadLine();
                 if (answer != "y")
                 {
-                    Console.WriteLine("Okey GoodBye than");
+                    Console.WriteLine("Okey GoodBye then");
                     break;
                 }
                 else
@@ -157,15 +174,21 @@ namespace RaceTask
             int faster = car1.CalculateSpeed(car1.Driver) - car2.CalculateSpeed(car2.Driver);
             if (faster == 0)
             {
+                Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine("It is a draw");
+                Console.ForegroundColor = ConsoleColor.White;
             }
             else if (faster < 0)
             {
+                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine($"The Car No.2 ( Model:{car2.Model} Driver: {car2.Driver.Name}) was faster with speed: {car2.CalculateSpeed(car2.Driver)}km/h");
+                Console.ForegroundColor = ConsoleColor.White;
             }
             else if (faster > 0)
             {
+                Console.ForegroundColor = ConsoleColor.Blue;
                 Console.WriteLine($"The Car No.1 ( Model:{car1.Model} Driver: {car1.Driver.Name}) was faster with speed: {car1.CalculateSpeed(car1.Driver)}km/h");
+                Console.ForegroundColor = ConsoleColor.White;
             }
         }
     }
