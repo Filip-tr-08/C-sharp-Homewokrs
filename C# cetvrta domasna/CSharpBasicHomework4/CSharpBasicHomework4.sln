@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceTask", "RaceTask\RaceTask.csproj", "{C2077DFE-4DD3-4982-8E45-1FC7B1323991}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2077DFE-4DD3-4982-8E45-1FC7B1323991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2077DFE-4DD3-4982-8E45-1FC7B1323991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2077DFE-4DD3-4982-8E45-1FC7B1323991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2077DFE-4DD3-4982-8E45-1FC7B1323991}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {651F1B5F-F829-4D86-86CF-8593F2FFFB22}
+	EndGlobalSection
+EndGlobal
