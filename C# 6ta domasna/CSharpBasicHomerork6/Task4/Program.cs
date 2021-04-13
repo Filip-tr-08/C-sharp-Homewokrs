@@ -16,7 +16,7 @@ namespace Task4
             employees.Add(new Employee("employee6", "sixth", 27));
             employees.Add(new Employee("employee7", "seventh", 41));
             employees.Add(new Employee("employee8", "eighth", 38));
-            employees.Add(new Employee("employee9", "ninth", 19));
+            employees.Add(new Employee("employee9", "ninth", 21));
             employees.Add(new Employee("employee10", "tenth", 29));
             
             Dictionary<int, List<string>> dictionaryList = new Dictionary<int, List<string>>();
@@ -24,8 +24,16 @@ namespace Task4
 
             for (int i = 0; i < employees.Count; i++)
             {
-
-                dictionaryList.Add(key: employees[i].Age, value: new List<string>() { $"{employees[i].FirstName} {employees[i].LastName}" });
+                if (dictionaryList.ContainsKey(employees[i].Age))
+                {
+                    List<string> newList = dictionaryList[employees[i].Age];
+                    newList.Add($"{employees[i].FirstName} {employees[i].LastName}");
+                    dictionaryList[employees[i].Age] = newList;
+                }
+                else
+                {
+                    dictionaryList.Add(key: employees[i].Age, value: new List<string>() { $"{employees[i].FirstName} {employees[i].LastName}" });
+                }
             }
             foreach (var item in dictionaryList)
             {

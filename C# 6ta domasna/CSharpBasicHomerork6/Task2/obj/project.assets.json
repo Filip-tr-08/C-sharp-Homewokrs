@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Basic C# domasni\\C# 6ta domasna\\CSharpBasicHomerork6\\Task2\\Task2.csproj",
+      "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\C# 6ta domasna\\CSharpBasicHomerork6\\Task2\\Task2.csproj",
       "projectName": "Task2",
-      "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Basic C# domasni\\C# 6ta domasna\\CSharpBasicHomerork6\\Task2\\Task2.csproj",
+      "projectPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\C# 6ta domasna\\CSharpBasicHomerork6\\Task2\\Task2.csproj",
       "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-      "outputPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Basic C# domasni\\C# 6ta domasna\\CSharpBasicHomerork6\\Task2\\obj\\",
+      "outputPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\C# 6ta domasna\\CSharpBasicHomerork6\\Task2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
