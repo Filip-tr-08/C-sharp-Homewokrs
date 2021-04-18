@@ -1,0 +1,9 @@
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# 7ma domasna\CSharpBasicHomework7\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# 7ma domasna\CSharpBasicHomework7\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# 7ma domasna\CSharpBasicHomework7\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# 7ma domasna\CSharpBasicHomework7\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# 7ma domasna\CSharpBasicHomework7\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# 7ma domasna\CSharpBasicHomework7\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# 7ma domasna\CSharpBasicHomework7\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# 7ma domasna\CSharpBasicHomework7\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# 7ma domasna\CSharpBasicHomework7\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

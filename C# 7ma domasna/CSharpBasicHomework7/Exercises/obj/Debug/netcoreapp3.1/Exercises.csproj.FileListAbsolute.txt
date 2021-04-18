@@ -1,0 +1,16 @@
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# 7ma domasna\CSharpBasicHomework7\Exercises\bin\Debug\netcoreapp3.1\Exercises.exe
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# 7ma domasna\CSharpBasicHomework7\Exercises\bin\Debug\netcoreapp3.1\Exercises.deps.json
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# 7ma domasna\CSharpBasicHomework7\Exercises\bin\Debug\netcoreapp3.1\Exercises.runtimeconfig.json
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# 7ma domasna\CSharpBasicHomework7\Exercises\bin\Debug\netcoreapp3.1\Exercises.runtimeconfig.dev.json
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# 7ma domasna\CSharpBasicHomework7\Exercises\bin\Debug\netcoreapp3.1\Exercises.dll
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# 7ma domasna\CSharpBasicHomework7\Exercises\bin\Debug\netcoreapp3.1\Exercises.pdb
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# 7ma domasna\CSharpBasicHomework7\Exercises\bin\Debug\netcoreapp3.1\Entities.dll
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# 7ma domasna\CSharpBasicHomework7\Exercises\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# 7ma domasna\CSharpBasicHomework7\Exercises\obj\Debug\netcoreapp3.1\Exercises.csprojAssemblyReference.cache
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# 7ma domasna\CSharpBasicHomework7\Exercises\obj\Debug\netcoreapp3.1\Exercises.AssemblyInfoInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# 7ma domasna\CSharpBasicHomework7\Exercises\obj\Debug\netcoreapp3.1\Exercises.AssemblyInfo.cs
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# 7ma domasna\CSharpBasicHomework7\Exercises\obj\Debug\netcoreapp3.1\Exercises.csproj.CoreCompileInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# 7ma domasna\CSharpBasicHomework7\Exercises\obj\Debug\netcoreapp3.1\Exercises.csproj.CopyComplete
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# 7ma domasna\CSharpBasicHomework7\Exercises\obj\Debug\netcoreapp3.1\Exercises.dll
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# 7ma domasna\CSharpBasicHomework7\Exercises\obj\Debug\netcoreapp3.1\Exercises.pdb
+E:\web development\seavus prezentacii i materijali\domasni\Basic C# domasni\C# 7ma domasna\CSharpBasicHomework7\Exercises\obj\Debug\netcoreapp3.1\Exercises.genruntimeconfig.cache
