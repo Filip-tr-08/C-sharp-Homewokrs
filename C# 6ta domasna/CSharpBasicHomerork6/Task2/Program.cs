@@ -8,22 +8,28 @@ namespace Task2
     {
         static void Main(string[] args)
         {
-            List<int> numbers = new List<int>();
-            numbers.Add(1);
-            numbers.Add(12);
-            numbers.Add(25);
-            numbers.Add(3);
-            numbers.Add(9);
-            numbers.Add(6);
-            numbers.Add(17);
-            numbers.Add(8);
-            numbers.Add(23);
-            numbers.Add(31);
+            List<double> numbers = new List<double>();
+           for(int i = 0; i < 10; i++)
+            {
+                startAgain:
+               
+                Console.WriteLine("Enter a number!");
+                bool success = double.TryParse(Console.ReadLine(), out double number);
+                if (success)
+                {
+                    numbers.Add(number);
+                }
+                else {
+                    Console.WriteLine("Wrong input try again");
+                    goto startAgain;
+                    
+                }
+            }
 
-            List<int> newNumbers = (numbers.Select(n => n * n)).ToList();
+            List<double> newNumbers = (numbers.Select(n => n * n)).ToList();
             foreach(int number in newNumbers)
             {
-                Console.WriteLine(number);
+                Console.Write($" {number}");
             }
         }
     }
