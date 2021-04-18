@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using Task4.Classes;
 namespace Task4
 {
@@ -16,26 +17,27 @@ namespace Task4
             employees.Add(new Employee("employee6", "sixth", 27));
             employees.Add(new Employee("employee7", "seventh", 41));
             employees.Add(new Employee("employee8", "eighth", 38));
-            employees.Add(new Employee("employee9", "ninth", 21));
+            employees.Add(new Employee("employee9", "ninth", 32));
             employees.Add(new Employee("employee10", "tenth", 29));
             
             Dictionary<int, List<string>> dictionaryList = new Dictionary<int, List<string>>();
 
 
-            for (int i = 0; i < employees.Count; i++)
+            foreach (var employee in employees)
+
             {
-                if (dictionaryList.ContainsKey(employees[i].Age))
+                if (dictionaryList.ContainsKey(employee.Age))
                 {
-                    List<string> newList = dictionaryList[employees[i].Age];
-                    newList.Add($"{employees[i].FirstName} {employees[i].LastName}");
-                    dictionaryList[employees[i].Age] = newList;
+                    List<string> newList = dictionaryList[employee.Age];
+                    newList.Add($"{employee.FirstName} {employee.LastName}");
+                    dictionaryList[employee.Age] = newList;
                 }
                 else
                 {
-                    dictionaryList.Add(key: employees[i].Age, value: new List<string>() { $"{employees[i].FirstName} {employees[i].LastName}" });
+                    dictionaryList.Add(key: employee.Age, value: new List<string> { $"{employee.FirstName} {employee.LastName}" });
                 }
             }
-            foreach (var item in dictionaryList)
+            foreach (var item in dictionaryList.OrderByDescending(i => i.Key))
             {
                 Console.Write($"{item.Key} - ");
                 foreach (var i in item.Value)
