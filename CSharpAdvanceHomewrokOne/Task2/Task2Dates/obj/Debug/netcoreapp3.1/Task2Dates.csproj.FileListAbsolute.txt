@@ -1,0 +1,13 @@
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomewrokOne\Task2\Task2Dates\bin\Debug\netcoreapp3.1\Task2Dates.exe
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomewrokOne\Task2\Task2Dates\bin\Debug\netcoreapp3.1\Task2Dates.deps.json
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomewrokOne\Task2\Task2Dates\bin\Debug\netcoreapp3.1\Task2Dates.runtimeconfig.json
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomewrokOne\Task2\Task2Dates\bin\Debug\netcoreapp3.1\Task2Dates.runtimeconfig.dev.json
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomewrokOne\Task2\Task2Dates\bin\Debug\netcoreapp3.1\Task2Dates.dll
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomewrokOne\Task2\Task2Dates\bin\Debug\netcoreapp3.1\Task2Dates.pdb
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomewrokOne\Task2\Task2Dates\obj\Debug\netcoreapp3.1\Task2Dates.csprojAssemblyReference.cache
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomewrokOne\Task2\Task2Dates\obj\Debug\netcoreapp3.1\Task2Dates.AssemblyInfoInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomewrokOne\Task2\Task2Dates\obj\Debug\netcoreapp3.1\Task2Dates.AssemblyInfo.cs
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomewrokOne\Task2\Task2Dates\obj\Debug\netcoreapp3.1\Task2Dates.csproj.CoreCompileInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomewrokOne\Task2\Task2Dates\obj\Debug\netcoreapp3.1\Task2Dates.dll
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomewrokOne\Task2\Task2Dates\obj\Debug\netcoreapp3.1\Task2Dates.pdb
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomewrokOne\Task2\Task2Dates\obj\Debug\netcoreapp3.1\Task2Dates.genruntimeconfig.cache
