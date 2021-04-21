@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomewrokOne\\Task2\\Task2Dates\\Task2Dates.csproj",
+      "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomewrokOne\\Task2\\Task2Dates\\Task2Dates.csproj",
       "projectName": "Task2Dates",
-      "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomewrokOne\\Task2\\Task2Dates\\Task2Dates.csproj",
+      "projectPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomewrokOne\\Task2\\Task2Dates\\Task2Dates.csproj",
       "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-      "outputPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomewrokOne\\Task2\\Task2Dates\\obj\\",
+      "outputPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomewrokOne\\Task2\\Task2Dates\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
