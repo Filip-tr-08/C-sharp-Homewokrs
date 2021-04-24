@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomeworkTwo\\Homework.Domain\\Homework.Domain.csproj",
+      "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkTwo\\Homework.Domain\\Homework.Domain.csproj",
       "projectName": "Homework.Domain",
-      "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomeworkTwo\\Homework.Domain\\Homework.Domain.csproj",
+      "projectPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkTwo\\Homework.Domain\\Homework.Domain.csproj",
       "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-      "outputPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomeworkTwo\\Homework.Domain\\obj\\",
+      "outputPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkTwo\\Homework.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",

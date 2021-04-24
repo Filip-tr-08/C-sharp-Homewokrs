@@ -31,11 +31,11 @@ namespace App
                     foreach (Animal animal in animals)
                     {
                         animal.PrintAnimal();
-                        if (animal.GetType() == max.GetType())
+                        if (animal.GetType() == typeof(Dog))
                         {
                             ((Dog)animal).Bark();
                         }
-                        else if (animal.GetType() == maca.GetType())
+                        else if (animal.GetType() == typeof(Cat))
                         {
                             ((Cat)animal).Eat(catFood);
                         }
