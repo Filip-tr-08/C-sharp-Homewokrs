@@ -1,0 +1,9 @@
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkThree\HomeworkThree.Domain\bin\Debug\netcoreapp3.1\HomeworkThree.Domain.deps.json
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkThree\HomeworkThree.Domain\bin\Debug\netcoreapp3.1\HomeworkThree.Domain.dll
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkThree\HomeworkThree.Domain\bin\Debug\netcoreapp3.1\HomeworkThree.Domain.pdb
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkThree\HomeworkThree.Domain\obj\Debug\netcoreapp3.1\HomeworkThree.Domain.csprojAssemblyReference.cache
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkThree\HomeworkThree.Domain\obj\Debug\netcoreapp3.1\HomeworkThree.Domain.AssemblyInfoInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkThree\HomeworkThree.Domain\obj\Debug\netcoreapp3.1\HomeworkThree.Domain.AssemblyInfo.cs
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkThree\HomeworkThree.Domain\obj\Debug\netcoreapp3.1\HomeworkThree.Domain.csproj.CoreCompileInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkThree\HomeworkThree.Domain\obj\Debug\netcoreapp3.1\HomeworkThree.Domain.dll
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkThree\HomeworkThree.Domain\obj\Debug\netcoreapp3.1\HomeworkThree.Domain.pdb
