@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomeworkThree\\App\\App.csproj",
+      "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkThree\\App\\App.csproj",
       "projectName": "App",
-      "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomeworkThree\\App\\App.csproj",
+      "projectPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkThree\\App\\App.csproj",
       "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-      "outputPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomeworkThree\\App\\obj\\",
+      "outputPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkThree\\App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomeworkThree\\HomeworkThree.Domain\\HomeworkThree.Domain.csproj": {
-              "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomeworkThree\\HomeworkThree.Domain\\HomeworkThree.Domain.csproj"
+            "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkThree\\HomeworkThree.Domain\\HomeworkThree.Domain.csproj": {
+              "projectPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkThree\\HomeworkThree.Domain\\HomeworkThree.Domain.csproj"
             }
           }
         }
