@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkFive_Ver.2\\CSharpAdvanceHomeworkFive_Version2\\CSharpAdvanceHomeworkFive.Domain\\CSharpAdvanceHomeworkFive.Domain.csproj",
+      "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkFive_Version2\\CSharpAdvanceHomeworkFive.Domain\\CSharpAdvanceHomeworkFive.Domain.csproj",
       "projectName": "CSharpAdvanceHomeworkFive.Domain",
-      "projectPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkFive_Ver.2\\CSharpAdvanceHomeworkFive_Version2\\CSharpAdvanceHomeworkFive.Domain\\CSharpAdvanceHomeworkFive.Domain.csproj",
+      "projectPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkFive_Version2\\CSharpAdvanceHomeworkFive.Domain\\CSharpAdvanceHomeworkFive.Domain.csproj",
       "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-      "outputPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkFive_Ver.2\\CSharpAdvanceHomeworkFive_Version2\\CSharpAdvanceHomeworkFive.Domain\\obj\\",
+      "outputPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkFive_Version2\\CSharpAdvanceHomeworkFive.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",

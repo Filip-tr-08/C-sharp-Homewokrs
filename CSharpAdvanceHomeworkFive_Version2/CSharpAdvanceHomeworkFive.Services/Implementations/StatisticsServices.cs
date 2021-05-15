@@ -17,7 +17,7 @@ namespace CSharpAdvanceHomeworkFive.Services.Implementations
             {
                 double time = activities.Where(x => x.Activity == activityType).ToList().Sum(x => x.Time);
                 time = Math.Round(time / 60, 0);
-                MessageHelper.PrintMessage($"Total time spent for {activityType}: {time}", ConsoleColor.Green);
+                MessageHelper.PrintMessage($"Total time spent for {activityType}: {time} hours", ConsoleColor.Green);
             }
             else
             {
@@ -29,8 +29,8 @@ namespace CSharpAdvanceHomeworkFive.Services.Implementations
             if (activities.Count != 0)
             {
                 double time = activities.Sum(x => x.Time);
-                time = Math.Round(time / 60, 8);
-                MessageHelper.PrintMessage($"The total time is: {time}", ConsoleColor.Green);
+                time = Math.Round(time / 60, 2);
+                MessageHelper.PrintMessage($"The total time is: {time} hours", ConsoleColor.Green);
             }
             else
             {
@@ -44,7 +44,7 @@ namespace CSharpAdvanceHomeworkFive.Services.Implementations
                 double totalTime = activities.Where(x => x.Activity == activityType).ToList().Sum(x => x.Time);
                 int numOfActivites = activities.Where(x => x.Activity == activityType).ToList().Count();
                 double averageTime = Math.Round(totalTime / numOfActivites, 0);
-                MessageHelper.PrintMessage($"Average time spent for {activityType}: {averageTime}", ConsoleColor.Green);
+                MessageHelper.PrintMessage($"Average time spent for {activityType}: {averageTime} minutes", ConsoleColor.Green);
             }
             else
             {
