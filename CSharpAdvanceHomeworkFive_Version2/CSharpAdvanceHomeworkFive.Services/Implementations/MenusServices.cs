@@ -319,7 +319,7 @@ namespace CSharpAdvanceHomeworkFive.Services.Implementations
                 }
             }
         }
-        public void AcoountManagmentMenu(User currentUser,bool flag)
+        public void AcoountManagmentMenu(User currentUser,ref bool flag)
         {
             bool flagAccountManagment = true;
             while (flagAccountManagment)

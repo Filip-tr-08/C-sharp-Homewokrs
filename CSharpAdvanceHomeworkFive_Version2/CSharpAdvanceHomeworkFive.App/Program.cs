@@ -44,7 +44,7 @@ namespace CSharpAdvanceHomeworkFive.App
                                     {
                                         case 1: menus.TrackMenu(currentUser); break;
                                         case 2:menus.UserStatisticsMenu(currentUser);break;
-                                        case 3: menus.AcoountManagmentMenu(currentUser, flag); break;
+                                        case 3: menus.AcoountManagmentMenu(currentUser,ref flag); break;
                                         case 4: flag = false; break;
                                         default: MessageHelper.PrintMessage("You must choose between 1 to 4", ConsoleColor.Red); break;
                                     }
