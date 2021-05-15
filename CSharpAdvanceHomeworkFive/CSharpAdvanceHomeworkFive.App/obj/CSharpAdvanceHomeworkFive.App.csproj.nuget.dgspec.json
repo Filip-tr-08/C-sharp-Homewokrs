@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.App\\CSharpAdvanceHomeworkFive.App.csproj": {}
+    "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.App\\CSharpAdvanceHomeworkFive.App.csproj": {}
   },
   "projects": {
-    "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.App\\CSharpAdvanceHomeworkFive.App.csproj": {
+    "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.App\\CSharpAdvanceHomeworkFive.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.App\\CSharpAdvanceHomeworkFive.App.csproj",
+        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.App\\CSharpAdvanceHomeworkFive.App.csproj",
         "projectName": "CSharpAdvanceHomeworkFive.App",
-        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.App\\CSharpAdvanceHomeworkFive.App.csproj",
+        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.App\\CSharpAdvanceHomeworkFive.App.csproj",
         "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.App\\obj\\",
+        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.Services\\CSharpAdvanceHomeworkFive.Services.csproj": {
-                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.Services\\CSharpAdvanceHomeworkFive.Services.csproj"
+              "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.Services\\CSharpAdvanceHomeworkFive.Services.csproj": {
+                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.Services\\CSharpAdvanceHomeworkFive.Services.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.Domain\\CSharpAdvanceHomeworkFive.Domain.csproj": {
+    "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.Domain\\CSharpAdvanceHomeworkFive.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.Domain\\CSharpAdvanceHomeworkFive.Domain.csproj",
+        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.Domain\\CSharpAdvanceHomeworkFive.Domain.csproj",
         "projectName": "CSharpAdvanceHomeworkFive.Domain",
-        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.Domain\\CSharpAdvanceHomeworkFive.Domain.csproj",
+        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.Domain\\CSharpAdvanceHomeworkFive.Domain.csproj",
         "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.Domain\\obj\\",
+        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -116,14 +116,14 @@
         }
       }
     },
-    "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.Services\\CSharpAdvanceHomeworkFive.Services.csproj": {
+    "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.Services\\CSharpAdvanceHomeworkFive.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.Services\\CSharpAdvanceHomeworkFive.Services.csproj",
+        "projectUniqueName": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.Services\\CSharpAdvanceHomeworkFive.Services.csproj",
         "projectName": "CSharpAdvanceHomeworkFive.Services",
-        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.Services\\CSharpAdvanceHomeworkFive.Services.csproj",
+        "projectPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.Services\\CSharpAdvanceHomeworkFive.Services.csproj",
         "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.Services\\obj\\",
+        "outputPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -140,8 +140,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.Domain\\CSharpAdvanceHomeworkFive.Domain.csproj": {
-                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.Domain\\CSharpAdvanceHomeworkFive.Domain.csproj"
+              "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.Domain\\CSharpAdvanceHomeworkFive.Domain.csproj": {
+                "projectPath": "E:\\web development\\seavus prezentacii i materijali\\C# domasni\\C-sharp-Homewokrs\\CSharpAdvanceHomeworkFive\\CSharpAdvanceHomeworkFive.Domain\\CSharpAdvanceHomeworkFive.Domain.csproj"
               }
             }
           }
