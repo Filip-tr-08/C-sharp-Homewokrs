@@ -1,0 +1,16 @@
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Bonus\BonusApp\bin\Debug\netcoreapp3.1\BonusApp.exe
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Bonus\BonusApp\bin\Debug\netcoreapp3.1\BonusApp.deps.json
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Bonus\BonusApp\bin\Debug\netcoreapp3.1\BonusApp.runtimeconfig.json
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Bonus\BonusApp\bin\Debug\netcoreapp3.1\BonusApp.runtimeconfig.dev.json
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Bonus\BonusApp\bin\Debug\netcoreapp3.1\BonusApp.dll
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Bonus\BonusApp\bin\Debug\netcoreapp3.1\BonusApp.pdb
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Bonus\BonusApp\bin\Debug\netcoreapp3.1\Domain.dll
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Bonus\BonusApp\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Bonus\BonusApp\obj\Debug\netcoreapp3.1\BonusApp.csprojAssemblyReference.cache
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Bonus\BonusApp\obj\Debug\netcoreapp3.1\BonusApp.AssemblyInfoInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Bonus\BonusApp\obj\Debug\netcoreapp3.1\BonusApp.AssemblyInfo.cs
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Bonus\BonusApp\obj\Debug\netcoreapp3.1\BonusApp.csproj.CoreCompileInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Bonus\BonusApp\obj\Debug\netcoreapp3.1\BonusApp.csproj.CopyComplete
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Bonus\BonusApp\obj\Debug\netcoreapp3.1\BonusApp.dll
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Bonus\BonusApp\obj\Debug\netcoreapp3.1\BonusApp.pdb
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Bonus\BonusApp\obj\Debug\netcoreapp3.1\BonusApp.genruntimeconfig.cache

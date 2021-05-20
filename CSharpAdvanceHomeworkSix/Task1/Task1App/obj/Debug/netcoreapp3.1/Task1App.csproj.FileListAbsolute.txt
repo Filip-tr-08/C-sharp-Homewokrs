@@ -1,0 +1,13 @@
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Task1\Task1App\bin\Debug\netcoreapp3.1\Task1App.exe
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Task1\Task1App\bin\Debug\netcoreapp3.1\Task1App.deps.json
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Task1\Task1App\bin\Debug\netcoreapp3.1\Task1App.runtimeconfig.json
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Task1\Task1App\bin\Debug\netcoreapp3.1\Task1App.runtimeconfig.dev.json
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Task1\Task1App\bin\Debug\netcoreapp3.1\Task1App.dll
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Task1\Task1App\bin\Debug\netcoreapp3.1\Task1App.pdb
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Task1\Task1App\obj\Debug\netcoreapp3.1\Task1App.csprojAssemblyReference.cache
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Task1\Task1App\obj\Debug\netcoreapp3.1\Task1App.AssemblyInfoInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Task1\Task1App\obj\Debug\netcoreapp3.1\Task1App.AssemblyInfo.cs
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Task1\Task1App\obj\Debug\netcoreapp3.1\Task1App.csproj.CoreCompileInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Task1\Task1App\obj\Debug\netcoreapp3.1\Task1App.dll
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Task1\Task1App\obj\Debug\netcoreapp3.1\Task1App.pdb
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSix\Task1\Task1App\obj\Debug\netcoreapp3.1\Task1App.genruntimeconfig.cache
