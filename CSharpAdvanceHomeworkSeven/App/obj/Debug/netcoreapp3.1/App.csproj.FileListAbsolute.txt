@@ -1,0 +1,17 @@
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSeven\App\bin\Debug\netcoreapp3.1\Domain.dll
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSeven\App\obj\Debug\netcoreapp3.1\App.csprojAssemblyReference.cache
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSeven\App\obj\Debug\netcoreapp3.1\App.AssemblyInfoInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSeven\App\obj\Debug\netcoreapp3.1\App.AssemblyInfo.cs
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSeven\App\bin\Debug\netcoreapp3.1\App.exe
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSeven\App\bin\Debug\netcoreapp3.1\App.deps.json
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSeven\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.json
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSeven\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.dev.json
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSeven\App\bin\Debug\netcoreapp3.1\App.dll
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSeven\App\bin\Debug\netcoreapp3.1\App.pdb
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSeven\App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSeven\App\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSeven\App\obj\Debug\netcoreapp3.1\App.csproj.CoreCompileInputs.cache
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSeven\App\obj\Debug\netcoreapp3.1\App.csproj.CopyComplete
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSeven\App\obj\Debug\netcoreapp3.1\App.dll
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSeven\App\obj\Debug\netcoreapp3.1\App.pdb
+E:\web development\seavus prezentacii i materijali\domasni\Advance C# domasni\CSharpAdvanceHomeworkSeven\App\obj\Debug\netcoreapp3.1\App.genruntimeconfig.cache
