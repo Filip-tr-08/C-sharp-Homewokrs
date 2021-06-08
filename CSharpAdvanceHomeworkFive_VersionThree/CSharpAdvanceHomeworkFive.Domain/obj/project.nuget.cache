@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "93tMzNIsENAdoAhNQPLTu3WHKCBtMl2CLkMsqCxa7dTdA8jcDqTbWHIFjeX/VRofJijXLxJ83K/T6oHG+GzGNA==",
+  "success": true,
+  "projectFilePath": "E:\\web development\\seavus prezentacii i materijali\\domasni\\Advance C# domasni\\CSharpAdvanceHomeworkFive_VersionThree\\CSharpAdvanceHomeworkFive.Domain\\CSharpAdvanceHomeworkFive.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Filip\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
